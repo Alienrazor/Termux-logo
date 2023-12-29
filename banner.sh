@@ -37,6 +37,7 @@ printf """\e[0m\e[1;31m
 printf " \e[0m\e[1;93m\e[0m\e[1;96m(\e[0m\e[1;95m👑\e[0m\e[1;96m) \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Initializing ...\e[0m"
 echo " " 
 sleep 2
+pkg install neofetch
 cp 1 .bashrc
 echo "echo -e '\e[0m\e[1;96m'" >> .bashrc
 printf "echo -e '\e[0m\e[1;32m'__________________________________________________________________________________" >> .bashrc
