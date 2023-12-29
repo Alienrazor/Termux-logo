@@ -19,4 +19,4 @@ bash banner.sh
 
 <h1 align="center">COMMING SOON</h1>
 <p align="center">
-<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/Screenshot_20231229_125528.jpg' style="height:400px;width:400px;" >
+<img src='https://raw.githubusercontent.com/Alienrazor/SS/main/Screenshot_20231229_125528.jpg' style="height:600px;width:400px;" >
